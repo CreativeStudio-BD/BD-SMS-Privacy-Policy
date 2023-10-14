@@ -62,4 +62,5 @@ This policy is effective as of 2024-01-01
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at developer.mru.studio.2019@gmail.com.
+
 Thanks.
